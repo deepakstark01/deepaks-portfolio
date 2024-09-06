@@ -174,8 +174,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         }
       ],
-      image: "", // Placeholder for project image if available
-      video: "" // Placeholder for project video if available
+      image: "https://iili.io/dvvMlHu.md.png", // Placeholder for project image if available
+      video: "https://www.loom.com/share/45f6ab621b68410b9bb72ec5d402c6fe" // Placeholder for project video if available
     },    
     {
       title: "TwitterAutoBot Chrome Extension",
@@ -194,7 +194,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         }
       ],
-      image: "", // Placeholder for project image if available
+      image: "https://media.licdn.com/dms/image/v2/D5622AQFgZ7JFRjuYLQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1706492181958?e=1728518400&v=beta&t=mMlrV9IQjvgz2pANGbb2ySBGH-APD3Y38kSiWnxXfKA", // Placeholder for project image if available
       video: "" // Placeholder for project video if available
     },
     {
@@ -260,7 +260,57 @@ export const DATA = {
         }
       ],
       image: "",
-      video: ""
+      video: "https://youtu.be/Hci3ZOz4u_A"
+    },
+    {
+      title: "Quora Upvoting in Multiple Accounts",
+      href: "https://youtu.be/lpX4gxys8to",
+      dates: "2019",
+      active: true,
+      description: "Automates upvoting on Quora across multiple accounts to boost visibility and engagement on selected answers.",
+      technologies: ["Python", "Selenium"],
+      links: [
+        {
+          type: "Demo",
+          href: "https://youtu.be/lpX4gxys8to",
+          icon: <Icons.youtube className="size-3" />,
+        }
+      ],
+      image: "",
+      video: "https://youtu.be/lpX4gxys8to"
+    }, {
+      title: "Facebook Auto Post into Page",
+      href: "https://youtu.be/LUBjuWF_yUs",
+      dates: "2019",
+      active: true,
+      description: "Facilitates automatic posting on Facebook pages to streamline content delivery and enhance social media management.",
+      technologies: ["JavaScript", "Facebook API"],
+      links: [
+        {
+          type: "Demo",
+          href: "https://youtu.be/LUBjuWF_yUs",
+          icon: <Icons.youtube className="size-3" />,
+        }
+      ],
+      image: "",
+      video: "https://youtu.be/LUBjuWF_yUs"
+    },
+    {
+      title: "Insta Bot Follow and Unfollow",
+      href: "https://youtu.be/-Dkwu1IjBGg",
+      dates: "2019",
+      active: true,
+      description: "An Instagram bot that automates following and unfollowing profiles to maintain an optimal following-to-follower ratio.",
+      technologies: ["Python", "Instagram API"],
+      links: [
+        {
+          type: "Demo",
+          href: "https://youtu.be/-Dkwu1IjBGg",
+          icon: <Icons.youtube className="size-3" />,
+        }
+      ],
+      image: "",
+      video: "https://youtu.be/-Dkwu1IjBGg"
     }
   ],
   hackathons: [
