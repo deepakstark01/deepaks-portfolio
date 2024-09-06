@@ -81,7 +81,7 @@ export const DATA = {
     {
       company: "rezonanz.io",
       href: "https://rezonanz.io",
-      location: "Remote freelance",
+      location: "Remote",
       title: "Junior Data Scientist ",
       logoUrl: "https://rezonanz.io/i/rezonanzlogotypehorizontalmeadowrgb.png", // Placeholder for logo URL
       start: "11/2023",
