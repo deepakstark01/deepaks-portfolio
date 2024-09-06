@@ -174,8 +174,8 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         }
       ],
-      image: "https://iili.io/dvvMlHu.md.png", // Placeholder for project image if available
-      video: "https://www.loom.com/share/45f6ab621b68410b9bb72ec5d402c6fe" // Placeholder for project video if available
+      image: "/facebook.png", // Placeholder for project image if available
+      video: "" // Placeholder for project video if available
     },    
     {
       title: "TwitterAutoBot Chrome Extension",
@@ -194,7 +194,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         }
       ],
-      image: "https://media.licdn.com/dms/image/v2/D5622AQFgZ7JFRjuYLQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1706492181958?e=1728518400&v=beta&t=mMlrV9IQjvgz2pANGbb2ySBGH-APD3Y38kSiWnxXfKA", // Placeholder for project image if available
+      image: "/twitter.jpg", // Placeholder for project image if available
       video: "" // Placeholder for project video if available
     },
     {
@@ -277,7 +277,7 @@ export const DATA = {
         }
       ],
       image: "",
-      video: "https://youtu.be/lpX4gxys8to"
+      video: "https://www.youtube.com/embed/lpX4gxys8to?si=rUX_Ccl7odRX300e"
     }, {
       title: "Facebook Auto Post into Page",
       href: "https://youtu.be/LUBjuWF_yUs",
@@ -293,7 +293,7 @@ export const DATA = {
         }
       ],
       image: "",
-      video: "https://youtu.be/LUBjuWF_yUs"
+      video: "https://www.youtube.com/embed/LUBjuWF_yUs?si=kkf0XAWWUcNnUoP4"
     },
     {
       title: "Insta Bot Follow and Unfollow",
@@ -310,7 +310,7 @@ export const DATA = {
         }
       ],
       image: "",
-      video: "https://youtu.be/-Dkwu1IjBGg"
+      video: "https://www.youtube.com/embed/-Dkwu1IjBGg?si=ooT5-A4NXtJueuoq"
     }
   ],
   hackathons: [
