@@ -131,8 +131,8 @@ export const DATA = {
       href: "https://itsengg.edu.in", // Adjust the URL if needed
       degree: "CSE", // Specify the degree if applicable or just keep 'CSE' if that's the complete title
       logoUrl: "https://itsengg.edu.in/images/its%20engineering%20college%20logo.png", // Placeholder for the school logo
-      start: "2023",
-      end: "Present", // Adjust if you have a specific end date
+      start: "2019",
+      end: "2023", // Adjust if you have a specific end date
     },
     {
       school: "Central Board Secondary",
