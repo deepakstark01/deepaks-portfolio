@@ -63,13 +63,13 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/deepak-youtube",
+        url: "https://www.youtube.com/@FukrayCoder",
         icon: Icons.youtube,
         navbar: true,
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "deepakstark0001@gmail.com",
         icon: Icons.email,
 
         navbar: false,
